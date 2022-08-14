@@ -29,7 +29,7 @@
       
       <h5>Monitor Kinerja</h5>
         <canvas id="myChart"></canvas>
-        <button type="button" class="btn btn-success btn-lg">Print!</button>
+        {{-- <button type="button" class="btn btn-success btn-lg">Print!</button> --}}
       
      </div>
     <div class="box">
